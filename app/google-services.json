@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949801135110",
+    "firebase_url": "https://firefileuploader-7d880.firebaseio.com",
+    "project_id": "firefileuploader-7d880",
+    "storage_bucket": "firefileuploader-7d880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949801135110:android:02725bce498b9fad",
+        "android_client_info": {
+          "package_name": "com.biijay.firefileuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949801135110-u777svu515o4ir628cl06rjsq0tnuc08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biijay.firefileuploader",
+            "certificate_hash": "778fe035ea6ae9e409d6ba4cbd67bb6bfc9e2917"
+          }
+        },
+        {
+          "client_id": "949801135110-65shk8epqpjc3fvtb4adqk07j3g7q868.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7ZW412E7lRcvDv65GO7AISKQB7bX-RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949801135110-65shk8epqpjc3fvtb4adqk07j3g7q868.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
